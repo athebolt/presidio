@@ -13,7 +13,7 @@ result = engine.anonymize(
         RecognizerResult(entity_type="PERSON", start=11, end=18, score=0.8),
         RecognizerResult(entity_type="PERSON", start=20, end=32, score=0.8),
     ],
-    operators={"PERSON": OperatorConfig("replace", {"new_value": "BIP"})},
+    operators={"PERSON": OperatorConfig("replace", {"new_value": "athebolt"})},
 )
 
 print(result)

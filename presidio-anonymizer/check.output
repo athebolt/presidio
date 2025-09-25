@@ -1,0 +1,11 @@
+new check
+origin	git@github.com:athebolt/presidio.git (fetch)
+origin	git@github.com:athebolt/presidio.git (push)
+0
+text: My name is BIP, BIP
+items:
+[
+    {'start': 16, 'end': 19, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'},
+    {'start': 11, 'end': 14, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'}
+]
+
